@@ -129,3 +129,12 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+
+############################
+# n8n
+############################
+.env
+.n8n
+.n8nrc
+.n8nrc.json
+.env.example
